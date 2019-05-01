@@ -23,6 +23,6 @@ March 25:
 
 	Action Items:
 		- Look up chrome extentions and various interfaces, get some solid design ideas (in paper) and a nice name.
-		- Fix the backend issue with the password requirements (caps, num, spec. chars, etc.)
+		- Basic Extension
 
-	Next Meeting: Friday, March 29, 2019
+	Next Meeting: Friday, May 3, 2019
