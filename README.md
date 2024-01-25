@@ -20,3 +20,31 @@ To put it in perspective, I ran a test with 100 *realistic human-input* combinat
 And here are the results:
 - Average: 3261 centuries to decrypt a password. 
 - Median: 3503 centuries to decrypt a password.
+
+
+## Usage
+
+### UI
+![safepass - UI1](https://github.com/ShoaibKhan/SafePass/blob/master/design/safepass%20-%20UI1.png)
+
+![safepass - UI2](https://github.com/ShoaibKhan/SafePass/blob/master/design/safepass%20-%20UI2.png)
+
+### Password Security Examples
+![safepass - test1](https://github.com/ShoaibKhan/SafePass/blob/master/design/safepass%20-%20test1.png)
+
+![safepass - test2](https://github.com/ShoaibKhan/SafePass/blob/master/design/safepass%20-%20test2.png)
+
+![safepass - test3](https://github.com/ShoaibKhan/SafePass/blob/master/design/safepass%20-%20test3.png)
+
+## Run
+
+```
+$ python3 front-end.py
+```
+
+## Installtion (if needed)
+
+```
+$ brew install python@3.11
+$ brew install python-tk@3.11
+```
